@@ -2,7 +2,7 @@
 <h3>This is my Future Ready Talent Project.</h3>
 <h2>Provision</h2>
 
-This is a static website developed using HTML,CSS languages and W3 framework. Provision is an online education platform which provide courses taught by experinced professors.It is an online learning platform.
+This is a static website developed using HTML,CSS languages and W3 framework. Provision is an online education platform which provide courses taught by experienced professors.It is an online learning platform.
 
 ![SS1](https://user-images.githubusercontent.com/85045188/184541603-f90c820b-2c62-44bd-a52e-e5a095bbc3a6.jpg)
 
